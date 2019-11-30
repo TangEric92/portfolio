@@ -1191,3 +1191,10 @@ a:not([href]):not([tabindex]):hover {
 .dark .about-profile .pro-title::after {
   color: white;
 }
+
+.counter-container {
+  display: none;
+}
+.counter-section {
+  height: 45vh;
+}
