@@ -801,6 +801,11 @@ a.back-to-top:focus {
 
 #portfolios .portfolio-item .shot-item {
   margin: 0px;
+  text-align: center;
+  height: 324px;
+}
+#portfolios .portfolio-item .shot-item img {
+  height: 100%;
 }
 
 #portfolio .mix {
